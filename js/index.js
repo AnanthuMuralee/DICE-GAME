@@ -11,7 +11,7 @@ document.getElementsByClassName("img2")[0].setAttribute("src","images/dice" + ra
 
 if(randomNumber1 > randomNumber2)
 {
-  document.querySelector("h1").innerHTML = "🏴󠁳󠁤󠁮󠁢󠁿Player 1 WINS!";
+  document.querySelector("h1").innerHTML = "󠁳󠁤󠁮󠁢󠁿🔷Player 1 WINS!";
 }
 else if(randomNumber1 < randomNumber2)
 {
