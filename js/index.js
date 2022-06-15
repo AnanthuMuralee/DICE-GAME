@@ -19,5 +19,5 @@ else if(randomNumber1 < randomNumber2)
 }
 else
 {
-  document.querySelector("h1").innerHTML = "🏳️ DRAW 🏳️ ";
+  document.querySelector("h1").innerHTML = " Refresh To Play ";
 }
