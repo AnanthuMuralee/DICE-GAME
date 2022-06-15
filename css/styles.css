@@ -21,6 +21,9 @@ h1 {
   font-size: 6rem;
   color: #6ECB63;
 }
+.warning{
+  font-family: 'Lobster', cursive;
+}
 
 p {
   font-size: 2rem;
